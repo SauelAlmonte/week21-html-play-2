@@ -3,6 +3,7 @@
     "live-server": "^1.2.2"
   },
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "live-server ."
   },
   "name": "week21-html-play-2",
